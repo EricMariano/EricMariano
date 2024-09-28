@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m currently working on Alexa Skill Development, using nodejs!
+I’m currently working on Tiradentes Innovation Center with Alexa Skill Development, using nodejs!
 I’m currently learning HTML, CSS and REACT
 <!--
 **EricMariano/EricMariano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
