@@ -24,7 +24,9 @@
 <img width="3%" src="https://www.svgrepo.com/show/374171/vscode.svg"> <img/>
 <img width="3%" src="https://www.svgrepo.com/show/448221/docker.svg"> <img/>
 <img width="3%" src="https://www.svgrepo.com/show/313078/alexa-2.svg"> <img/>
-<img width="3%"  src="https://www.svgrepo.com/show/452211/github.svg"> <img/>
+<img width="3%" src="https://www.svgrepo.com/show/452211/github.svg"> <img/>
 <img width="3%" src="https://www.svgrepo.com/show/448236/linux.svg"> <img/>
 <img width="3%" src="https://www.svgrepo.com/show/448222/figma.svg"> <img/>
 
+### Learning:
+Typescript
