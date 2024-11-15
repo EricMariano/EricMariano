@@ -28,5 +28,5 @@
 <img width="3%" src="https://www.svgrepo.com/show/448236/linux.svg"> <img/>
 <img width="3%" src="https://www.svgrepo.com/show/448222/figma.svg"> <img/>
 
-### Learning:
-REACT.JS and BOOTSTRAP
+### Librarys:
+<img width="3%" src="https://driverjs.com/driver-head.svg"> <img/>
