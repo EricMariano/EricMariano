@@ -28,5 +28,3 @@
 <img width="3%" src="https://www.svgrepo.com/show/448236/linux.svg"> <img/>
 <img width="3%" src="https://www.svgrepo.com/show/448222/figma.svg"> <img/>
 
-### Librarys:
-<img width="3%" src="https://driverjs.com/driver-head.svg"> <img/>
