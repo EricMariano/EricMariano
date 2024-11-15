@@ -14,6 +14,7 @@
   <img width="3%" src="https://www.svgrepo.com/show/452091/python.svg"> <img/> 
   <img width="3%" src="https://www.svgrepo.com/show/452228/html-5.svg"> <img/>
   <img width="3%" src="https://www.svgrepo.com/show/452185/css-3.svg"> <img/>
+  <img width="3%" src="https://www.svgrepo.com/show/452092/react.svg"> <img/>
   <img width="3%" src="https://www.svgrepo.com/show/373705/js-official.svg"> <img/>
   <img width="3%" src="https://www.svgrepo.com/show/373623/git.svg"> <img/>
 
