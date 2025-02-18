@@ -13,6 +13,7 @@
   <img width="3%" src="https://www.svgrepo.com/show/452228/html-5.svg"> <img/>
   <img width="3%" src="https://www.svgrepo.com/show/452185/css-3.svg"> <img/>
   <img width="3%" src="https://www.svgrepo.com/show/373705/js-official.svg"> <img/>
+  <img width="2.8%" src="https://www.svgrepo.com/show/303600/typescript-logo.svg"> <img/>
   <img width="3%" src="https://www.svgrepo.com/show/452092/react.svg"> <img/>
   <img width="3%" src="https://www.svgrepo.com/show/374118/tailwind.svg"> <img/>
   <img width="3%" src="https://www.svgrepo.com/show/452091/python.svg"> <img/> 
@@ -30,4 +31,4 @@
 <img width="3%" src="https://www.svgrepo.com/show/448222/figma.svg"> <img/>
 
 ### Learning:
-Typescript
+Java and Google Cloud Programs
