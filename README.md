@@ -23,6 +23,7 @@
 
 ### Tools:
 <img width="3%" src="https://www.svgrepo.com/show/354237/pycharm.svg"> <img/>
+<img width="3%" src="https://www.svgrepo.com/show/353906/intellij-idea.svg"> <img/>
 <img width="3%" src="https://www.svgrepo.com/show/374171/vscode.svg"> <img/>
 <img width="3%" src="https://www.svgrepo.com/show/448221/docker.svg"> <img/>
 <img width="3%" src="https://www.svgrepo.com/show/313078/alexa-2.svg"> <img/>
