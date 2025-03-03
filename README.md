@@ -31,4 +31,4 @@
 <img width="3%" src="https://www.svgrepo.com/show/448222/figma.svg"> <img/>
 
 ### Learning:
-Java and Google Cloud Programs
+Google Cloud Programs
