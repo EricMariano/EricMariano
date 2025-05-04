@@ -2,7 +2,7 @@
 
 
 <div align="center">  
-  <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=EricMariano&show_icons=true&count_private=true&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=050F2C" alt="Eric Bomfim Mariano github stats" /> 
+  <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=EricMariano&show_icons=false&count_private=true&hide_border=true&title_color=00AEFF&icon_color=2DDE98&text_color=FFFFFF&bg_color=050F2C" alt="Eric Bomfim Mariano github stats" /> 
   <img width="41%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricMariano&layout=compact&hide_border=true&title_color=00AEFF&text_color=FFFFFF&bg_color=050F2C" />
 </div>
 
