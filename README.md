@@ -14,6 +14,7 @@
   <img width="3%" src="https://www.svgrepo.com/show/452185/css-3.svg"> <img/>
   <img width="3%" src="https://www.svgrepo.com/show/373705/js-official.svg"> <img/>
   <img width="2.8%" src="https://www.svgrepo.com/show/303600/typescript-logo.svg"> <img/>
+  <img width="3%" src=https://www.svgrepo.com/show/354113/nextjs-icon.svg> <img/>
   <img width="3%" src="https://www.svgrepo.com/show/452092/react.svg"> <img/>
   <img width="3%" src="https://www.svgrepo.com/show/374118/tailwind.svg"> <img/>
   <img width="3%" src="https://www.svgrepo.com/show/452091/python.svg"> <img/> 
@@ -27,7 +28,8 @@
 <img width="3%" src="https://www.svgrepo.com/show/313078/alexa-2.svg"> <img/>
 <img width="3%" src="https://www.svgrepo.com/show/452211/github.svg"> <img/>
 <img width="3%" src="https://www.svgrepo.com/show/448236/linux.svg"> <img/>
+<img width="3%" src="https://www.svgrepo.com/show/353805/google-cloud.svg"> <img/>
 <img width="3%" src="https://www.svgrepo.com/show/448222/figma.svg"> <img/>
 
 ### Learning:
-Google Cloud Programs
+PostgresSQL
