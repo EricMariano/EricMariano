@@ -1,10 +1,5 @@
 # Hi! I'm Eric 👽
 
-
-<div align="center">   
-  <img width="50%" height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EricMariano&layout=compact&hide_border=true&title_color=00AEFF&text_color=FFFFFF&bg_color=050F2C" />
-</div>
-
 <div align="center">
 
 ### Skills:
