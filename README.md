@@ -1,5 +1,5 @@
 👋 Hello! <br>
-I'm Eric, currently web dev, researcher (MetaHumans and RAG techniques), and computer science undergrad, focused on ts and py.
+I'm Eric, currently a web dev, researcher (MetaHumans and RAG techniques), and computer science undergrad. ts and py.
 
 My Homepage: https://ericmariano-homepage.vercel.app/ (buy me a domain pls).
 
