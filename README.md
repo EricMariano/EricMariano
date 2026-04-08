@@ -1,5 +1,5 @@
 👋 Hello! <br>
-I'm Eric, currently a fullstack web dev, researcher at GPITICS (RAG techniques), and computer science undergrad. ts and py.
+I'm Eric, currently a fullstack web dev, researcher at INCT SiMAI (RAG techniques), and computer science undergrad. ts and py.
 
 My Homepage: https://ericmariano-homepage.vercel.app/ (buy me a domain pls).
 
