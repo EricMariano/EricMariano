@@ -1,7 +1,7 @@
 👋 Hello! <br>
 I'm Eric, currently a fullstack web dev, researcher at INCT SiMAI (RAG techniques), and computer science undergrad. ts and py.
 
-My Homepage: https://ericmariano-homepage.vercel.app/ (buy me a domain pls).
+My Homepage: https://ericmariano-homepage.vercel.app/ (buy me a domain pls -> https://pixmeacoffee.vercel.app/ericbfmariano).
 
 Areas of Interest: AI, Web Development, Mobile Development, Hackathons, and founder stuff.
 
