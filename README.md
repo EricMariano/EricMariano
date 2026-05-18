@@ -5,5 +5,4 @@ My Homepage: https://ericmariano-homepage.vercel.app/ (buy me a domain pls -> ht
 
 Areas of Interest: AI, Web Development, Mobile Development, Hackathons, and founder stuff.
 
-Building: MeuBolso (MyPocket) - an app for managing personal finances wt AI integration for web and mobile devices (paused) <br >
-          ↪️ hackthon management app - an app for managing hackathons
+Building: MeuBolso (MyPocket) - an app for managing personal finances wt AI integration for web and mobile devices
