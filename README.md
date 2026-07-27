@@ -1,7 +1,7 @@
 👋 Hello! <br>
 I'm Eric, currently a software architect and swe, AI researcher at vhlab - INCT SiMAI (RAG techniques), and computer science undergrad. ts and py.
 
-My Homepage: https://ericmariano-homepage.vercel.app/ (buy me a domain pls -> https://pixmeacoffee.vercel.app/ericbfmariano).
+My Homepage: https://www.ericmariano.com.br/en.
 
 Areas of Interest: AI, Software Engineering, Software Solutions, Hackathons, and founder stuff.
 
