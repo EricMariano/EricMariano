@@ -5,4 +5,4 @@ My Homepage: https://www.ericmariano.com.br/en.
 
 Areas of Interest: AI, Software Engineering, Software Solutions, Hackathons, and founder stuff.
 
-Building: MeuBolso (MyPocket) - an app for managing personal finances wt AI integration for web and mobile devices.
+Building: MeuBolso - an app for managing personal finances wt AI integration for web and mobile devices.
