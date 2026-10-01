@@ -3,6 +3,6 @@ I'm Eric, currently a software architect and swe, AI and VH researcher at vhlab 
 
 My Homepage: https://www.ericmariano.com.br/en.
 
-Areas of Interest: AI, Software Engineering, Software Solutions, Hackathons, and founder stuff.
+Areas of Interest: Research, AI Solutions, Software Engineering, and founder stuff.
 
 Building: MeuBolso - an app for managing personal finances wt AI integration for web and mobile devices.
