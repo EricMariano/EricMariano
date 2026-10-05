@@ -5,4 +5,3 @@ My Homepage: https://www.ericmariano.com.br/en.
 
 Areas of Interest: Research, AI Solutions, Software Engineering, and founder stuff.
 
-Building: MeuBolso - an app for managing personal finances wt AI integration for web and mobile devices.
